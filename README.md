@@ -2,13 +2,14 @@
 <a href="Java url">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
 </a>
+
 <a href="Maven url" >
     <img alt="Maven" src="https://img.shields.io/badge/Maven-3.0.6-brightgreen.svg" />
 </a>
-   <a >
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue.svg">
-  </a>
-</center>A todo application, also known as a task management or productivity app, is a software tool designed to help individuals or teams organize and keep track of their tasks and activities. It provides a centralized platform for creating, managing, and tracking tasks, enabling users to prioritize and stay on top of their work or personal responsibilities.
+
+</center>
+
+A todo application, also known as a task management or productivity app, is a software tool designed to help individuals or teams organize and keep track of their tasks and activities. It provides a centralized platform for creating, managing, and tracking tasks, enabling users to prioritize and stay on top of their work or personal responsibilities.
 
 ---
 <br>
